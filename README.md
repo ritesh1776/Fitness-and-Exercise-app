@@ -1,5 +1,5 @@
 
-# An Fitness Exercise Suggestion App
+# A Fitness Exercise Suggestion App
 
 ![image](https://github.com/user-attachments/assets/cd13656a-ab8b-4f02-b896-8e6b79ef0f62)
 ![image](https://github.com/user-attachments/assets/362d3346-d602-46cd-a169-e4465692b6dc)
