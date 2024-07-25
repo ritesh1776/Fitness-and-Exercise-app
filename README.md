@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/86a1798a-eab9-44bf-84c1-0e875856d4bd)
 
                        
-# Want to see live preview [click here](https://tiny-figolla-23da1d.netlify.app/exercise/2331) 
+# Want to see live preview [click here](https://tiny-figolla-23da1d.netlify.app) 
 
 # Features
 1. Search for any specific exercise by name or body part.
